@@ -22,4 +22,4 @@ const slice = createSlice({
 
 export default slice.reducer;
 
-export const { signIn, signOut, creteUser } = slice.actionsl;
+export const { signIn, signOut, createUser } = slice.actions;
