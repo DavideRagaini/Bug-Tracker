@@ -7,8 +7,8 @@ import App from "./App";
 
 // Reducers
 import authReducer from "./Controllers/Redux/authSlice";
-import bugReducer from "./controllers/Redux/bugSlice";
-import userReducer from "./controllers/Redux/userSlice";
+import bugReducer from "./Controllers/Redux/bugSlice";
+import userReducer from "./Controllers/Redux/userSlice";
 
 // Redux configure
 const rootReducer = combineReducers({
